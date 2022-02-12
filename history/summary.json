@@ -4,17 +4,19 @@
     "url": "https://www.producteca.com",
     "icon": "https://favicons.githubusercontent.com/www.producteca.com",
     "slug": "producteca",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 449,
-    "timeDay": 599,
-    "timeWeek": 467,
-    "timeMonth": 449,
-    "timeYear": 449,
-    "dailyMinutesDown": {}
+    "time": 427,
+    "timeDay": 346,
+    "timeWeek": 420,
+    "timeMonth": 427,
+    "timeYear": 427,
+    "dailyMinutesDown": {
+      "2022-02-12": 0
+    }
   }
 ]
